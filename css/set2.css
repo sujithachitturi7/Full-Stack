@@ -1,0 +1,50 @@
+#heading{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top:0;
+    /* bottom: 0;
+    left: 0;  */
+    margin: 20px ;
+    padding: 20px;
+    border: 2px solid red;
+    background-color: lightpink;
+
+    
+}
+#heading1{
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top:0px;
+    /* bottom: 20;
+    left: 20; */
+    margin: 20px ;
+    border: 2px solid red;
+    padding: 20px;
+    background-color: lightpink;
+}
+#h4{
+    text-align: center;
+}
+*{
+    background-color: cornflowerblue;
+    color: rgba(0, 0, 255, 1);
+}
+.boxes{
+    height: 100px;
+    
+    visibility: block;
+    width: 100px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: double;
+    font-style: italic;
+    font-family: cursive;
+    font-size: medium;
+    text-align: center;
+    background-color: blueviolet;
+    color: beige;
+    
+}
